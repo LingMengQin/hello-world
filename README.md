@@ -9,5 +9,5 @@ This is a hello-world repository for github learning.
   除了中文我还会说粤语和客家话。
   - I still improving my English speaking, and know a little Japanese.  
   懂点英语和日语。
-  - My favorite games are Sky--The childern of light and Minecraft.  
+  - My favorite games are ***Sky-The childern of light*** and ***Minecraft***.  
   喜欢玩光遇和Minecraft。
