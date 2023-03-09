@@ -8,6 +8,6 @@ This is a hello-world repository for github learning.
   - I do speak Chinese ,Cantonese(The first language in HongKong) and Hakka(a form of chinese spoken in south-esatern china).  
   除了中文我还会说粤语和客家话。
   - I still improving my English speaking, and know a little Japanese.  
-  懂点英语和日语。
+  懂点英语和日语。日本語少しできます。
   - My favorite games are ***Sky-The childern of light*** and ***Minecraft***.  
   喜欢玩光遇和Minecraft。
